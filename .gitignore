@@ -1,0 +1,5 @@
+autovc.ckpt
+checkpoint_step001000000_ema.pth
+.ipynb_checkpoints/
+__pycache__/
+github_access_token.txt
